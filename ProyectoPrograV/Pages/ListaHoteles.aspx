@@ -2,7 +2,7 @@
     CodeBehind="ListaHoteles.aspx.cs" Inherits="TuProyecto.Pages.ListaHoteles" %>
 
 <asp:Content ID="c1" ContentPlaceHolderID="MainContent" runat="server">
-  <h2>Lista de hoteles</h2>
+  <h2>Lista de hoteles ejemplo</h2>
 
   <p>
     <a href="CrearHotel.aspx" class="btn btn-primary btn-sm">Crear hotel</a>
